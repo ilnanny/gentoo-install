@@ -1,4 +1,4 @@
-# gentoo-install
+
 Fast HOWTO:
 * Boot into LiveCD (best into recent one)
 * Configure network
